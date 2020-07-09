@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Methods in International Relations"
+title: "2020 - Quantitative Methods in International Relations"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-QMIR
