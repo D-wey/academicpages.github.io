@@ -31,5 +31,4 @@ their own empirical research question. To facilitate this process, students will
 to present their research proposals in class and receive written feedback from a fellow student and
 the instructor.
 
-Syllabus
-======
+[Syllabus](http://d-wey.github.io/files/Syllabus_DOIC_2019.pdf)
