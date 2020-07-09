@@ -30,5 +30,5 @@ light of the research question and transfer the acquired skills to their own res
 this course.
 
 
-[Syllabus](http://d-wey.github.io/files/Syllabus_QMIR_2020.pdf)
+[Syllabus](http://d-wey.github.io/files/Syllabus_QMIR_2019.pdf)
 
