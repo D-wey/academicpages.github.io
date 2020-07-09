@@ -28,5 +28,5 @@ their own analyses (e.g. for their BA theses) by transferring the acquired skill
 interests and to become critical consumers of statistical claims made in the news, policy reports
 and academic research.
 
-Syllabus
-======
+
+[Syllabus](d-wey.github.io/files/Syllabus_QMIR_2020.pdf)
