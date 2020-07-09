@@ -29,4 +29,5 @@ interests and to become critical consumers of statistical claims made in the new
 and academic research.
 
 
-[Syllabus](d-wey.github.io/_files/Syllabus_QMIR_2020.pdf)
+[Syllabus](http://d-wey.github.io/files/Syllabus_QMIR_2020.pdf)
+
