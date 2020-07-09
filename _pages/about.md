@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-
-About me
-======
+I am a second year Ph.D Candidate at the Graduate School of Economic and Social Sciences (GESS) and the Universtiy of Mannheim. My research interests are very broadly in international and transnatioanl cooperation. I teach quantitive methods and IR for undergrad students. 
 
 Teaching
 ======
-I teach Methods and IR
+
 
 Research
 ======
 
-I work on internaitonal cooperation and transnational standard-setting.
+
