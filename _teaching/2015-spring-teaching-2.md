@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminar"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Mannheim, Chair of Political Science, European Politics"
-date: Fall 2019
+date: 2019-09-01
 location: "Mannheim, Germany"
 ---
 
