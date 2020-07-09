@@ -2,7 +2,7 @@
 title: "2019 - Quantitative Methods in International Relations"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-spring-QMIR
+permalink: /teaching/2019-spring-QMIR
 venue: "University of Mannehim, Chair of Political Science, European Politics"
 date: 2019-02-01
 location: "Mannheim, Germany"
