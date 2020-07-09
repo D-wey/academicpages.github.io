@@ -1,20 +1,35 @@
 ---
-title: "Teaching experience 2"
+title: "Determinants of International Cooperation"
 collection: teaching
-type: "Workshop"
+type: "Seminar"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Mannheim, Chair of Political Science, European Politics"
+date: Fall 2019
+location: "Mannheim, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course Description
+======
+The course focuses on the determinants and results of international cooperation. Key questions are:
+Why do states cooperate in international agreements and organizations? How do they design these
+agreements and organizations? What are the drivers of cooperation? When does cooperation fail?
+The 14 sessions of this course are structured in four blocks. First, we will discuss the theoretical
+foundations of scholarship on international cooperation (1). Then we will turn to international
+organizations (2) and international agreements (3). In a final substantive block we will look at the
+failure of cooperation and the results of failed cooperation (4). The last sessions of the course will
+allow students to present their own research ideas in order to receive feedback on their final papers.
 
-Heading 1
+Course Objectives
 ======
 
-Heading 2
-======
+This course will provide students with an understanding of the theoretical and methodological
+background that enables them to conduct their own empirical analyses in the field of international
+cooperation. Besides familiarising students with the current state of research in the field as well as
+the research designs and methods political scientists have used to address these topics, this course
+will encourage students to critically discuss and evaluate the literature and develop and answer
+their own empirical research question. To facilitate this process, students will have the opportunity
+to present their research proposals in class and receive written feedback from a fellow student and
+the instructor.
 
-Heading 3
+Syllabus
 ======
