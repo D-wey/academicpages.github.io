@@ -1,7 +1,7 @@
 ---
-title: "Determinants of International Cooperation"
+title: "2019 - Determinants of International Cooperation"
 collection: teaching
-type: "Seminar"
+type: "Undergraduate Course"
 permalink: /teaching/2019-fall-DOIC
 venue: "University of Mannheim, Chair of Political Science, European Politics"
 date: 2019-09-01
