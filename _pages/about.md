@@ -18,5 +18,4 @@ I teach undergraduate classes at the University of Mannheim. I focus on empirica
 Research
 ======
 
-My research interests lie in the determinants of inter- and transnational cooperation. My focus has been on the influence of governmental preferences in cooperative strategies, both in trasnnational governance (for example the IETF) or international cooperation in varying contexts. For more informaiton on the scope of my research see: [Publications](https://d-wey.github.io/publications/) or [Talks](https://d-wey.github.io/talks/).
-
+My research interests lie in the determinants of inter- and transnational cooperation. My focus has been on the influence of governmental preferences in cooperative strategies, both in trasnnational governance (for example the IETF) or international cooperation in varying contexts.
